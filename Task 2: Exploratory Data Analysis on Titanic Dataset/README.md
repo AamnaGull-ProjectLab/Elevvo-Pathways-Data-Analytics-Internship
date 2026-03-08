@@ -20,4 +20,3 @@ Titanic: Machine Learning from Disaster (Kaggle)
 - Group based analysis (Survival by Gender and Class)
 - Data visualization using Seaborn and Matplotlib
 
-## Project Structure
