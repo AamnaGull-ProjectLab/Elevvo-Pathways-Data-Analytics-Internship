@@ -43,5 +43,5 @@ The following analyses were performed:
 - Certain departments contribute significantly to total sales.
 - Sales during holiday weeks tend to be higher compared to regular weeks.
 
-## Project Structure
+
 
