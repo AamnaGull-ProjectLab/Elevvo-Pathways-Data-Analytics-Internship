@@ -2,7 +2,7 @@
 
 This repository contains my internship tasks in Data Analytics, where I worked on data cleaning, visualization, and time series analysis using Power BI, Python, and SQL.
 
-Tasks Included
+# Tasks Included
 
 Task 2 – Exploratory Data Analysis on Titanic Dataset.
 
